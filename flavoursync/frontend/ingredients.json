@@ -1,0 +1,1027 @@
+{
+    "Red Lentil Soup with Chicken and Turnips": [
+        {
+            "name": "diced additional toppings: avocado",
+            "amount": 8.0,
+            "unit": "servings"
+        },
+        {
+            "name": "diced carrots",
+            "amount": 3.0,
+            "unit": "medium"
+        },
+        {
+            "name": "diced celery stalks",
+            "amount": 3.0,
+            "unit": ""
+        },
+        {
+            "name": "shredded chicken breast",
+            "amount": 280.0,
+            "unit": "g"
+        },
+        {
+            "name": "italian flat leaf parsley",
+            "amount": 30.0,
+            "unit": "g"
+        },
+        {
+            "name": "garlic",
+            "amount": 6.0,
+            "unit": "cloves"
+        },
+        {
+            "name": "olive oil",
+            "amount": 2.0,
+            "unit": "Tbsps"
+        },
+        {
+            "name": "canned tomatoes",
+            "amount": 793.787,
+            "unit": "g"
+        },
+        {
+            "name": "red dried lentils",
+            "amount": 360.0,
+            "unit": "g"
+        },
+        {
+            "name": "black salt and pepper",
+            "amount": 8.0,
+            "unit": "servings"
+        },
+        {
+            "name": "diced turnip",
+            "amount": 1.0,
+            "unit": "large"
+        },
+        {
+            "name": "vegetable stock",
+            "amount": 1.88,
+            "unit": "l"
+        },
+        {
+            "name": "yellow diced onion",
+            "amount": 1.0,
+            "unit": "medium"
+        }
+    ],
+    "Asparagus and Pea Soup: Real Convenience Food": [
+        {
+            "name": "frozen asparagus",
+            "amount": 1.0,
+            "unit": "bag"
+        },
+        {
+            "name": "evoo",
+            "amount": 1.0,
+            "unit": "Tbsp"
+        },
+        {
+            "name": "garlic",
+            "amount": 2.0,
+            "unit": "cloves"
+        },
+        {
+            "name": "onion",
+            "amount": 0.5,
+            "unit": ""
+        },
+        {
+            "name": "frozen peas",
+            "amount": 290.0,
+            "unit": "g"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "amount": 1.0,
+            "unit": "box"
+        }
+    ],
+    "Garlicky Kale": [
+        {
+            "name": "balsamic vinegar",
+            "amount": 3.0,
+            "unit": "Tbsps"
+        },
+        {
+            "name": "garlic",
+            "amount": 1.0,
+            "unit": "clove"
+        },
+        {
+            "name": "curly kale",
+            "amount": 1.0,
+            "unit": "bunch"
+        },
+        {
+            "name": "olive oil",
+            "amount": 2.0,
+            "unit": "servings"
+        }
+    ],
+    "Slow Cooker Beef Stew": [
+        {
+            "name": "canned beef broth",
+            "amount": 411.068,
+            "unit": "g"
+        },
+        {
+            "name": "carrots",
+            "amount": 2.0,
+            "unit": "large"
+        },
+        {
+            "name": "celery",
+            "amount": 2.0,
+            "unit": "stalks"
+        },
+        {
+            "name": "canned cream of mushroom soup",
+            "amount": 737.088,
+            "unit": "g"
+        },
+        {
+            "name": "green onions",
+            "amount": 3.0,
+            "unit": ""
+        },
+        {
+            "name": "red new potatoes",
+            "amount": 10.0,
+            "unit": ""
+        },
+        {
+            "name": "onion",
+            "amount": 1.0,
+            "unit": "small"
+        },
+        {
+            "name": "dale's seasoning",
+            "amount": 118.294,
+            "unit": "ml"
+        },
+        {
+            "name": "stew meat",
+            "amount": 907.185,
+            "unit": "g"
+        },
+        {
+            "name": "water",
+            "amount": 473.176,
+            "unit": "ml"
+        }
+    ],
+    "Red Kidney Bean Jambalaya": [
+        {
+            "name": "cooked dried brown rice",
+            "amount": 390.0,
+            "unit": "g"
+        },
+        {
+            "name": "carrots",
+            "amount": 2.0,
+            "unit": "medium"
+        },
+        {
+            "name": "celery",
+            "amount": 2.0,
+            "unit": "stalks"
+        },
+        {
+            "name": "celery seed",
+            "amount": 1.0,
+            "unit": "tsp"
+        },
+        {
+            "name": "cooked dried kidney beans",
+            "amount": 368.0,
+            "unit": "g"
+        },
+        {
+            "name": "dried marjoram",
+            "amount": 1.0,
+            "unit": "tsp"
+        },
+        {
+            "name": "dried thyme",
+            "amount": 2.0,
+            "unit": "tsps"
+        },
+        {
+            "name": "eggplant",
+            "amount": 1.0,
+            "unit": "medium"
+        },
+        {
+            "name": "garlic",
+            "amount": 2.0,
+            "unit": "cloves"
+        },
+        {
+            "name": "green beans",
+            "amount": 3.0,
+            "unit": "handfuls"
+        },
+        {
+            "name": "black fresh ground pepper",
+            "amount": 6.0,
+            "unit": "servings"
+        },
+        {
+            "name": "ground sage",
+            "amount": 2.0,
+            "unit": "tsps"
+        },
+        {
+            "name": "liquid smoke",
+            "amount": 0.5,
+            "unit": "tsps"
+        },
+        {
+            "name": "olive oil",
+            "amount": 2.0,
+            "unit": "Tbsps"
+        },
+        {
+            "name": "red bell pepper",
+            "amount": 1.0,
+            "unit": ""
+        },
+        {
+            "name": "red white diced onion",
+            "amount": 1.0,
+            "unit": "small"
+        },
+        {
+            "name": "sea salt",
+            "amount": 1.5,
+            "unit": "tsps"
+        },
+        {
+            "name": "sriracha",
+            "amount": 1.0,
+            "unit": "tsp"
+        },
+        {
+            "name": "diced tomatoes",
+            "amount": 2.0,
+            "unit": "medium"
+        },
+        {
+            "name": "vegetable stock",
+            "amount": 705.0,
+            "unit": "ml"
+        }
+    ],
+    "Cauliflower, Brown Rice, and Vegetable Fried Rice": [
+        {
+            "name": "grapeseed oil",
+            "amount": 2.0,
+            "unit": "Tbsps"
+        },
+        {
+            "name": "coconut oil",
+            "amount": 2.0,
+            "unit": "Tbsps"
+        },
+        {
+            "name": "green dark scallions",
+            "amount": 7.0,
+            "unit": ""
+        },
+        {
+            "name": "garlic",
+            "amount": 5.0,
+            "unit": "cloves"
+        },
+        {
+            "name": "raw cauliflower",
+            "amount": 1.0,
+            "unit": "head"
+        },
+        {
+            "name": "cooked brown rice",
+            "amount": 585.0,
+            "unit": "g"
+        },
+        {
+            "name": "cooked broccoli",
+            "amount": 176.0,
+            "unit": "g"
+        },
+        {
+            "name": "frozen peas",
+            "amount": 145.0,
+            "unit": "g"
+        },
+        {
+            "name": "low sodium soy sauce",
+            "amount": 3.0,
+            "unit": "Tbsps"
+        },
+        {
+            "name": "sesame oil",
+            "amount": 2.0,
+            "unit": "tsps"
+        },
+        {
+            "name": "sesame seeds",
+            "amount": 8.0,
+            "unit": "servings"
+        },
+        {
+            "name": "additional scallion tops",
+            "amount": 8.0,
+            "unit": "servings"
+        },
+        {
+            "name": "salt",
+            "amount": 8.0,
+            "unit": "servings"
+        }
+    ],
+    "Quinoa and Chickpea Salad with Sun-Dried Tomatoes and Dried Cherries": [
+        {
+            "name": "raw whole raw cashews",
+            "amount": 43.0,
+            "unit": "g"
+        },
+        {
+            "name": "dried cherries",
+            "amount": 40.404,
+            "unit": "g"
+        },
+        {
+            "name": "cooked dried chickpeas",
+            "amount": 300.0,
+            "unit": "g"
+        },
+        {
+            "name": "dried thyme",
+            "amount": 0.5,
+            "unit": "tsps"
+        },
+        {
+            "name": "ground cumin",
+            "amount": 0.5,
+            "unit": "tsps"
+        },
+        {
+            "name": "honey",
+            "amount": 1.5,
+            "unit": "Tbsps"
+        },
+        {
+            "name": "orange (juice)",
+            "amount": 1.0,
+            "unit": ""
+        },
+        {
+            "name": "olive oil",
+            "amount": 2.0,
+            "unit": "Tbsps"
+        },
+        {
+            "name": "cooked dried quinoa",
+            "amount": 340.0,
+            "unit": "g"
+        },
+        {
+            "name": "red wine vinegar",
+            "amount": 2.0,
+            "unit": "tsps"
+        },
+        {
+            "name": "black fresh sea-salt",
+            "amount": 6.0,
+            "unit": "servings"
+        },
+        {
+            "name": "sun-dried tomatoes",
+            "amount": 55.0,
+            "unit": "g"
+        },
+        {
+            "name": "turmeric",
+            "amount": 0.5,
+            "unit": "tsps"
+        }
+    ],
+    "Easy Homemade Rice and Beans": [
+        {
+            "name": "canned black beans",
+            "amount": 425.243,
+            "unit": "g"
+        },
+        {
+            "name": "diced canned tomatoes",
+            "amount": 283.495,
+            "unit": "g"
+        },
+        {
+            "name": "chili powder",
+            "amount": 2.0,
+            "unit": "tsps"
+        },
+        {
+            "name": "cumin",
+            "amount": 0.5,
+            "unit": "tsps"
+        },
+        {
+            "name": "black ground pepper",
+            "amount": 0.25,
+            "unit": "tsps"
+        },
+        {
+            "name": "optional: of hot sauce",
+            "amount": 4.0,
+            "unit": "dashes"
+        },
+        {
+            "name": "olive oil",
+            "amount": 1.0,
+            "unit": "tsp"
+        },
+        {
+            "name": "onion",
+            "amount": 40.0,
+            "unit": "g"
+        },
+        {
+            "name": "rice",
+            "amount": 92.5,
+            "unit": "g"
+        },
+        {
+            "name": "water",
+            "amount": 3.0,
+            "unit": "Tbsps"
+        }
+    ],
+    "Tuscan White Bean Soup with Olive Oil and Rosemary": [
+        {
+            "name": "bay leaf",
+            "amount": 1.0,
+            "unit": ""
+        },
+        {
+            "name": "fresh rosemary",
+            "amount": 1.0,
+            "unit": "Tbsp"
+        },
+        {
+            "name": "garlic",
+            "amount": 6.0,
+            "unit": "cloves"
+        },
+        {
+            "name": "olive oil",
+            "amount": 1.0,
+            "unit": "tsp"
+        },
+        {
+            "name": "onion",
+            "amount": 1.0,
+            "unit": "medium"
+        },
+        {
+            "name": "salt",
+            "amount": 6.0,
+            "unit": "servings"
+        },
+        {
+            "name": "water",
+            "amount": 2.0,
+            "unit": "Tbsps"
+        },
+        {
+            "name": "white dried beans",
+            "amount": 404.0,
+            "unit": "g"
+        }
+    ],
+    "Crunchy Brussels Sprouts Side Dish": [
+        {
+            "name": "black pepper",
+            "amount": 0.25,
+            "unit": "tsps"
+        },
+        {
+            "name": "trimmed brussels sprouts",
+            "amount": 800.0,
+            "unit": "g"
+        },
+        {
+            "name": "dijon mustard",
+            "amount": 1.0,
+            "unit": "tsp"
+        },
+        {
+            "name": "honey",
+            "amount": 0.5,
+            "unit": "tsps"
+        },
+        {
+            "name": "olive oil",
+            "amount": 3.0,
+            "unit": "Tbs"
+        },
+        {
+            "name": "red wine vinegar",
+            "amount": 2.0,
+            "unit": "Tbs"
+        },
+        {
+            "name": "walnuts",
+            "amount": 29.25,
+            "unit": "g"
+        }
+    ],
+    "Slow Cooker: Pork and Garbanzo Beans": [
+        {
+            "name": "cinnamon",
+            "amount": 2.0,
+            "unit": "tsps"
+        },
+        {
+            "name": "dried cumin",
+            "amount": 1.0,
+            "unit": "Tbsp"
+        },
+        {
+            "name": "dried garbanzo beans *1",
+            "amount": 453.592,
+            "unit": "g"
+        },
+        {
+            "name": "black ground pepper",
+            "amount": 2.0,
+            "unit": "tsps"
+        },
+        {
+            "name": "onion",
+            "amount": 1.0,
+            "unit": "small"
+        },
+        {
+            "name": "bone-in pork should roast",
+            "amount": 1.361,
+            "unit": "kgs"
+        },
+        {
+            "name": "salt",
+            "amount": 2.0,
+            "unit": "tsps"
+        },
+        {
+            "name": "water *2",
+            "amount": 946.352,
+            "unit": "ml"
+        }
+    ],
+    "Powerhouse Almond Matcha Superfood Smoothie": [
+        {
+            "name": "unsalted natural almond butter",
+            "amount": 2.0,
+            "unit": "Tbsps"
+        },
+        {
+            "name": "unsweetened almond milk",
+            "amount": 375.0,
+            "unit": "ml"
+        },
+        {
+            "name": "frozen banana",
+            "amount": 1.0,
+            "unit": "medium"
+        },
+        {
+            "name": "chia seeds",
+            "amount": 2.0,
+            "unit": "tsps"
+        },
+        {
+            "name": "baby kale",
+            "amount": 21.0,
+            "unit": "g"
+        },
+        {
+            "name": "frozen mango pieces",
+            "amount": 82.5,
+            "unit": "g"
+        },
+        {
+            "name": "green matcha tea powder",
+            "amount": 1.0,
+            "unit": "Tbsp"
+        },
+        {
+            "name": "frozen pineapple",
+            "amount": 123.75,
+            "unit": "g"
+        },
+        {
+            "name": "vanilla extract",
+            "amount": 0.5,
+            "unit": "tsps"
+        }
+    ],
+    "Broccolini Quinoa Pilaf": [
+        {
+            "name": "trimmed broccolini",
+            "amount": 1.0,
+            "unit": "bunch"
+        },
+        {
+            "name": "garlic clove",
+            "amount": 1.0,
+            "unit": ""
+        },
+        {
+            "name": "olive oil",
+            "amount": 1.0,
+            "unit": "Tbsp"
+        },
+        {
+            "name": "onion",
+            "amount": 80.0,
+            "unit": "g"
+        },
+        {
+            "name": "quinoa",
+            "amount": 170.0,
+            "unit": "g"
+        },
+        {
+            "name": "vegetable broth",
+            "amount": 470.0,
+            "unit": "ml"
+        },
+        {
+            "name": "walnuts",
+            "amount": 56.699,
+            "unit": "g"
+        }
+    ],
+    "Easy To Make Spring Rolls": [
+        {
+            "name": "canned you can use regular basil",
+            "amount": 12.0,
+            "unit": "g"
+        },
+        {
+            "name": "boston lettuce",
+            "amount": 1.0,
+            "unit": "small head"
+        },
+        {
+            "name": "chili pepper",
+            "amount": 1.0,
+            "unit": "small"
+        },
+        {
+            "name": "fish sauce",
+            "amount": 58.0,
+            "unit": "ml"
+        },
+        {
+            "name": "coriander leaves",
+            "amount": 118.294,
+            "unit": "g"
+        },
+        {
+            "name": "garlic",
+            "amount": 1.0,
+            "unit": "clove"
+        },
+        {
+            "name": "fresh lime juice",
+            "amount": 2.0,
+            "unit": "Tbsps"
+        },
+        {
+            "name": "mint leaves",
+            "amount": 22.5,
+            "unit": "g"
+        },
+        {
+            "name": "red bell pepper",
+            "amount": 4.0,
+            "unit": "servings"
+        },
+        {
+            "name": "rice vinegar",
+            "amount": 63.75,
+            "unit": "ml"
+        },
+        {
+            "name": "cooked shrimp",
+            "amount": 8.0,
+            "unit": "large"
+        },
+        {
+            "name": "spring roll wrappers",
+            "amount": 8.0,
+            "unit": "8-inch"
+        },
+        {
+            "name": "sugar",
+            "amount": 1.0,
+            "unit": "Tbsp"
+        },
+        {
+            "name": "water",
+            "amount": 59.147,
+            "unit": "ml"
+        },
+        {
+            "name": "nuoc cham",
+            "amount": 4.0,
+            "unit": "servings"
+        },
+        {
+            "name": "nuoc cham",
+            "amount": 4.0,
+            "unit": "servings"
+        }
+    ],
+    "Farro With Mushrooms and Asparagus": [
+        {
+            "name": "asparagus",
+            "amount": 1.0,
+            "unit": "bunch"
+        },
+        {
+            "name": "chicken stock",
+            "amount": 480.0,
+            "unit": "ml"
+        },
+        {
+            "name": "dried porcini mushrooms",
+            "amount": 28.35,
+            "unit": "g"
+        },
+        {
+            "name": "farro",
+            "amount": 226.796,
+            "unit": "g"
+        },
+        {
+            "name": "fresh thyme",
+            "amount": 1.0,
+            "unit": "Tbsp"
+        },
+        {
+            "name": "garlic",
+            "amount": 2.0,
+            "unit": "cloves"
+        },
+        {
+            "name": "olive oil",
+            "amount": 2.0,
+            "unit": "Tbsps"
+        },
+        {
+            "name": "onion",
+            "amount": 1.0,
+            "unit": "medium"
+        },
+        {
+            "name": "salt and pepper",
+            "amount": 4.0,
+            "unit": "servings"
+        },
+        {
+            "name": "sherry vinegar",
+            "amount": 3.0,
+            "unit": "Tbsps"
+        }
+    ],
+    "Butternut Squash Frittata": [
+        {
+            "name": "butternut squash",
+            "amount": 1.0,
+            "unit": "large"
+        },
+        {
+            "name": "goat cheese",
+            "amount": 14.175,
+            "unit": "g"
+        },
+        {
+            "name": "liquid egg substitute",
+            "amount": 120.0,
+            "unit": "ml"
+        },
+        {
+            "name": "non-fat milk",
+            "amount": 2.0,
+            "unit": "Tbsps"
+        },
+        {
+            "name": "bell pepper",
+            "amount": 1.0,
+            "unit": "serving"
+        }
+    ],
+    "Herbivoracious' White Bean and Kale Soup": [
+        {
+            "name": "olive oil",
+            "amount": 54.0,
+            "unit": "ml"
+        },
+        {
+            "name": "diced onion",
+            "amount": 1.0,
+            "unit": "medium"
+        },
+        {
+            "name": "whole garlic",
+            "amount": 1.0,
+            "unit": "head"
+        },
+        {
+            "name": "diced carrot",
+            "amount": 1.0,
+            "unit": ""
+        },
+        {
+            "name": "kosher salt",
+            "amount": 1.0,
+            "unit": "tsp"
+        },
+        {
+            "name": "bay leaves",
+            "amount": 2.0,
+            "unit": ""
+        },
+        {
+            "name": "fresh rosemary leaves",
+            "amount": 1.0,
+            "unit": "tsp"
+        },
+        {
+            "name": "the following: parmesan rind)",
+            "amount": 1.0,
+            "unit": ""
+        },
+        {
+            "name": "white dried navy",
+            "amount": 404.0,
+            "unit": "g"
+        },
+        {
+            "name": "water",
+            "amount": 1.656,
+            "unit": "l"
+        },
+        {
+            "name": "dinosaur kale",
+            "amount": 1.0,
+            "unit": "bunch"
+        },
+        {
+            "name": "lemon (juice)",
+            "amount": 1.0,
+            "unit": ""
+        }
+    ],
+    "Tomato and lentil soup": [
+        {
+            "name": "olive oil",
+            "amount": 2.0,
+            "unit": "Tbs"
+        },
+        {
+            "name": "onion",
+            "amount": 1.0,
+            "unit": ""
+        },
+        {
+            "name": "garlic",
+            "amount": 2.0,
+            "unit": "cloves"
+        },
+        {
+            "name": "carrots",
+            "amount": 3.0,
+            "unit": ""
+        },
+        {
+            "name": "canned tomatoes",
+            "amount": 480.0,
+            "unit": "g"
+        },
+        {
+            "name": "bay leaf",
+            "amount": 1.0,
+            "unit": ""
+        },
+        {
+            "name": "water",
+            "amount": 1.3,
+            "unit": "l"
+        },
+        {
+            "name": "lentils",
+            "amount": 250.0,
+            "unit": "g"
+        },
+        {
+            "name": "salt",
+            "amount": 0.25,
+            "unit": "tsps"
+        },
+        {
+            "name": "parsley",
+            "amount": 1.0,
+            "unit": "bunch"
+        }
+    ],
+    "Swiss Chard Wraps": [
+        {
+            "name": "dried swiss chard leaves",
+            "amount": 6.0,
+            "unit": "large"
+        },
+        {
+            "name": "orange cauliflower",
+            "amount": 1.0,
+            "unit": "small head"
+        },
+        {
+            "name": "olive oil",
+            "amount": 1.5,
+            "unit": "Tbs"
+        },
+        {
+            "name": "garlic",
+            "amount": 3.0,
+            "unit": "cloves"
+        },
+        {
+            "name": "salt",
+            "amount": 1.0,
+            "unit": "pinch"
+        },
+        {
+            "name": "fresh basil",
+            "amount": 1.0,
+            "unit": "sprig"
+        },
+        {
+            "name": "zucchini",
+            "amount": 1.0,
+            "unit": "medium"
+        },
+        {
+            "name": "red bell pepper",
+            "amount": 1.0,
+            "unit": "large"
+        },
+        {
+            "name": "avocado",
+            "amount": 1.0,
+            "unit": "medium"
+        },
+        {
+            "name": "trader joe's spicy peanut vinaigrette",
+            "amount": 3.0,
+            "unit": "Tbs"
+        }
+    ],
+    "Corn Avocado Salsa": [
+        {
+            "name": "avocado",
+            "amount": 1.0,
+            "unit": ""
+        },
+        {
+            "name": "balsamic vinegar",
+            "amount": 1.0,
+            "unit": "tsp"
+        },
+        {
+            "name": "cumin",
+            "amount": 1.0,
+            "unit": "tsp"
+        },
+        {
+            "name": "canned frozen corn",
+            "amount": 123.75,
+            "unit": "g"
+        },
+        {
+            "name": "garlic",
+            "amount": 1.0,
+            "unit": "clove"
+        },
+        {
+            "name": "red bell pepper",
+            "amount": 0.5,
+            "unit": "medium"
+        }
+    ]
+}

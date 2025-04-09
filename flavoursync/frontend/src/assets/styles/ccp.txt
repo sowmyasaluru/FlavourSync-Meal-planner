@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+html, body {
+    height: 100%;
+    background-color: #c9fff0;
+    background: linear-gradient(to right, #e2e2e2, #c9ffd8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-container {
+    text-align: center;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+    width: 90%;
+    max-width: 400px; /* Limit the max width */
+    min-height: 500px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: #333;
+}
+
+.form-container p {
+    font-size: 14px;
+    line-height: 1.4;
+    letter-spacing: 0.3px;
+    margin: 15px 0;
+}
+
+.form-container a {
+    color: #007bff;
+    font-size: 14px;
+    text-decoration: none;
+    margin: 10px 0;
+    transition: color 0.2s ease;
+}
+
+.form-container a:hover {
+    color: #0056b3;
+}
+
+.form-container button {
+    background-color: #148761;
+    color: #fff;
+    font-size: 14px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+}
+
+.form-container button:hover {
+    background-color: #106b50;
+}
+
+.form-container form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.form-container input {
+    background-color: #eee;
+    border: none;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 8px;
+    width: 100%;
+    margin: 8px 0;
+    outline: none;
+}
+
+.password-input-container {
+    position: relative;
+    width: 100%;
+}
+
+.password-input-container input {
+    padding-right: 35px; /* Space for the eye icon */
+}
+
+.eye-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #777;
+}
+
+.eye-icon:hover {
+    color: #333;
+}
+
+/* Adjust button styles to align with form elements */
+.form-container button.hidden {
+    background-color: rgba(22, 212, 149, 0.5);
+    color: #ffffff;
+    border-radius: 8px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.form-container button.hidden:hover {
+    background-color: rgba(20, 135, 97, 0.9);
+    color: #fff;
+}

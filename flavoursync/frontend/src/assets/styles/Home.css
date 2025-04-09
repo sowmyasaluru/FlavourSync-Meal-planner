@@ -1,0 +1,79 @@
+/* Sidebar Offset */
+.home-content {
+  margin-left: 250px; /* Adjust based on sidebar width */
+  height: 100vh;
+  overflow-y: auto;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+}
+
+/* Section Styling */
+.full-height-section {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  scroll-snap-align: start;
+}
+
+/* Background colors for each section */
+#welcome-section {
+  background-color: #f0f8ff;
+}
+
+#recipe-generator-section {
+  background-color: #e9ecef;
+}
+
+#meal-planner-section {
+  background-color: #f8f9fa;
+}
+
+#about-section {
+  background-color: #ffffff;
+}
+
+#contact-section {
+  background-color: #f0f8ff;
+}
+
+/* Styling for text */
+.full-height-section h1, .full-height-section h2 {
+  font-weight: 700;
+  color: #148761;
+}
+
+.full-height-section p {
+  font-size: 1.25rem;
+  color: #555;
+  max-width: 70%;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Styling for buttons */
+.full-height-section .btn {
+  margin-top: 1rem;
+  min-width: 180px;
+}
+
+.button-group {
+  display: flex;
+  gap: 30px; /* Space between the two button items */
+  margin-top: 15px;
+}
+
+.button-with-description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button-description {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 5px;
+  text-align: center;
+}

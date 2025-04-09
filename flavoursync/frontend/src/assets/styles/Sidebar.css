@@ -1,0 +1,97 @@
+/* src/assets/styles/Sidebar.css */
+
+.sidebar {
+  width: 250px;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  position: fixed;
+  height: 100vh;
+  display: flex;
+  flex-direction: column; /* Enables items to stack vertically */
+  justify-content: space-between; /* Pushes items to top and bottom */
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  margin: 15px 0;
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.nav-link .icon {
+  margin-right: 12px;
+  font-size: 1.2rem;
+}
+
+.nav-link:hover {
+  background-color: #444;
+}
+
+.nav-item {
+  margin-bottom: 20px;
+}
+
+.dropdown {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.dropdown-item {
+  color: #b0c4de;
+  text-decoration: none;
+  padding: 8px;
+  transition: background-color 0.3s;
+  margin-bottom: 20px; /* Adds space between dropdown items */
+}
+
+.dropdown-item:last-child {
+  margin-bottom: 0;
+}
+
+.dropdown-item:hover {
+  background-color: #555;
+  color: #fff;
+}
+
+/* Profile Section Styling */
+.profile-section {
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+  border-top: 1px solid #444;
+  margin-top: auto; /* Pushes the profile section to the bottom */
+}
+
+.profile-icon {
+  font-size: 2rem;
+  color: #00bcd4;
+  margin-right: 10px;
+}
+
+.profile-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.username {
+  font-weight: bold;
+  color: #fff;
+  margin: 0;
+}
+
+.profile-link {
+  font-size: 0.9rem;
+  color: #b0c4de;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.profile-link:hover {
+  color: #00bcd4;
+}
